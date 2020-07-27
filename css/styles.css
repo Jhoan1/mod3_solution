@@ -1,0 +1,33 @@
+
+/*cabezera*/
+body{font-family: 'Balsamiq Sans', cursive;
+}
+}
+.navbar-brand{font-size: 36px;
+}
+#header-nav{
+	background: gray;
+	border-radius: 0;
+	border: 0;
+}
+#header-nav h1{float: none;
+	color: #000000;}
+h2{margin: auto;}
+#boton{float: right;}
+#button{margin-top: 20px;
+ }
+#collapsable-nav {
+ 	background: #fff;
+ 	border: 1; 
+ 	border-color: #000000;
+ 	padding: 0;
+ }
+.navbar-nav{margin:0;
+	text-align: center;}
+
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+#text-page{background: gray;
+margin:15px;}
+.container{align-content: center;}
